@@ -1,0 +1,41 @@
+body{
+    background-color: hotpink;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5{
+    /*center image*/
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: rgb(9, 9, 244);
+}
+img{
+    border: 2px solid yellow;
+    padding: 3px;
+    margin: 5px;
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellowgreen;
+    font-size: x-large;
+    font-style: oblique;
+}
+.rizz:hover{
+    background-color: chartreuse;
+    color: black;
+    font-family: chiller, 'Comic Sans MS';
+    font-style: normal;
+    border: dashed blue 5px;
+}
